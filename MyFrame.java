@@ -22,7 +22,7 @@ public class MyFrame extends JFrame {
     JLabel fnameL = new JLabel("Име:");
     JLabel lnameL = new JLabel("Фамилия:");
     JLabel type = new JLabel("Вид на тревата:");
-    JLabel buyerNumber = new JLabel("Номер на куповач:");
+    JLabel buyerNumber = new JLabel("Номер на купувач:");
     JLabel weedNumber = new JLabel("Номер на тревата:");
     JLabel orderNumber = new JLabel("Номер на поръчката:");
     JLabel orderQuantity = new JLabel("Количество на поръчката:");
